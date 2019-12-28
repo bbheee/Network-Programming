@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="io.jsonwebtoken:jjwt-api:0.10.7" type="repository">
+    <properties maven-id="io.jsonwebtoken:jjwt-api:0.10.7" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jjwt-api-0.10.7.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/jjwt-api-0.10.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

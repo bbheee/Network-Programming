@@ -1,0 +1,59 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding-top: 50px;
+    margin: 0;
+    background-color: #ebf3f3;
+    text-align: center;
+    top: 125px;
+}
+
+.result {
+    position: absolute;
+    top: 46vh;
+    right: 0;
+    left: 0;
+    color: #2d3667;
+    font-size: 16px;
+    text-align: center;
+    padding: 14px;
+    background-color: #f3f9f9;
+}
+
+h1 {
+    padding: 1em;
+    margin: 0;
+}
+
+.form-container {
+    position: absolute;
+    top: 200px;
+    right: 0;
+    left: 0;
+    width: 500px;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 4px;
+}
+
+.form {
+    padding-bottom: 1em;
+}
+
+input[name="convert"] {
+    position: relative;
+    height: 35px;
+    width: 80px;
+    background: #fff;
+    border-radius: 4px;
+    text-align: center;
+    font-size: 18px;
+}
+
+select {
+    position: relative;
+    height: 30px;
+    padding: 15px 20px;
+    background-color: #fff;
+    border-radius: 4px;
+    cursor: pointer;
+}
